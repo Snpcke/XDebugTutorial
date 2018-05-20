@@ -174,6 +174,6 @@ hosts 文件位置
 
 ***至此，PHPStorm 基础配置介绍完毕***
 
-[转到 XDebug 配置流程](./XDebug.md)
+[转到 XDebug 配置流程](XDebug.md)
 
-[转到测试流程](./Test.md)
+[转到测试流程](Test.md)

@@ -60,7 +60,7 @@
 1. **完整的 PHP 环境**，推荐PHP >= 7.0.x，**最新的 XDebug 已经准备停止对 5.x.x 的 PHP 进行支持**，但并不是完全不支持
 1. **支持 XDebug 的 IDE（开发环境）**，推荐 [PHPStorm](http://www.jetbrains.com/phpstorm/?fromMenu)，**因为只会这个**，同样支持 XDebug 的开发环境还有：**Eclipse**、**NetBeans**、**Zend Studio**，以及某些强悍的编辑器
 
-[转向PHPStrom安装流程](./PHPStorm.md)
+[转向PHPStrom安装流程](PHPStorm.md)
 
 考虑到各位存在各种各样的开发环境
 
@@ -126,7 +126,7 @@ xdebug.remote_port = 9000
 
 ***至此，phpStudy XDebug 配置完毕***
 
-[转向测试流程](./Test.md)
+[转向测试流程](Test.md)
 
 ------------------------------------------------------
 
@@ -263,4 +263,4 @@ xdebug.remote_port = 9000
 
 ***至此，XAMPP 7.x.x XDebug 配置完毕***
 
-[转向测试流程](./Test.md)
+[转向测试流程](Test.md)
