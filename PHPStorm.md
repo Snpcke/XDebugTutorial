@@ -1,14 +1,14 @@
 # PHPStorm
 
-***声明：内容来源于个人实验和个人理解，不保证泛用性和正确性，欢迎勘误和拍砖***
+**_声明：内容来源于个人实验和个人理解，不保证泛用性和正确性，欢迎勘误和拍砖_**
 
 ## 目录
 
-- [简介](#short)
-- [安装](#install)
-- [配置](#config)
+* [简介](#short)
+* [安装](#install)
+* [配置](#config)
 
--------------------------
+---
 
 <ac id="short"></ac>
 
@@ -20,13 +20,13 @@
 
 不过我们有破解方法
 
--------------------------
+---
 
-***此处以 XAMPP 为PHP 环境来进行配置，因此会有一点点不同（如 php.exe 的位置）***
+**_此处以 XAMPP 为 PHP 环境来进行配置，因此会有一点点不同（如 php.exe 的位置）_**
 
-***这些差异请各位按照各自的环境自行调整***
+**_这些差异请各位按照各自的环境自行调整_**
 
--------------------------
+---
 
 <ac id="install"></ac>
 
@@ -34,7 +34,7 @@
 
 [官方下载地址](http://www.jetbrains.com/phpstorm/)请自行百度： PHPStorm ，安装过程不复杂，不赘述
 
-在安装完成后，假如您是第一次启动PHPStorm将会出现下列窗口，询问您是否导入此工具的配置
+在安装完成后，假如您是第一次启动 PHPStorm 将会出现下列窗口，询问您是否导入此工具的配置
 
 ![导入配置](https://s1.ax1x.com/2018/05/18/Cc9Yt0.png)
 
@@ -54,19 +54,19 @@
 
 您应该可以看到如下页面
 
-***请不要慌着获取注册码，请注意红框部分***
+**_请不要慌着获取注册码，请注意红框部分_**
 
 ![lanyus](https://s1.ax1x.com/2018/05/18/Cc9TAI.png)
 
-我们需要找到hosts文件
+我们需要找到 hosts 文件
 
 hosts 文件位置
 
-- **Windows**：C:\Windows\System32\drivers\etc\hosts
+* **Windows**：C:\Windows\System32\drivers\etc\hosts
 
-***请在修改之前对hosts文件进行备份(简单地复制一下也是可以的)***
+**_请在修改之前对 hosts 文件进行备份(简单地复制一下也是可以的)_**
 
-> ***注意***
+> **_注意_**
 >
 > 若您是 Win 8/10/Vista 的用户，请将 host 文件复制到桌面再进行修改
 >
@@ -160,19 +160,19 @@ hosts 文件位置
 
 这样在以后的开发中就可以偷懒
 
-首先是配置PHP 解释器
+首先是配置 PHP 解释器
 
 选项路径：File | Settings | Languages & Frameworks | PHP
 
 ![PHP Global instance](https://ws1.sinaimg.cn/large/e1413d51gy1frfty5cewzg216s0ovu0x.jpg)
 
-其次调整JavaScript 语言版本，为ES 6 语法特性提供支持
+其次调整 JavaScript 语言版本，为 ES 6 语法特性提供支持
 
 选项路径：File | Settings | Languages & Frameworks | JavaScript
 
 ![ES 6](https://ws1.sinaimg.cn/large/e1413d51gy1frfv0wehbsg216s0ov4qp.jpg)
 
-***至此，PHPStorm 基础配置介绍完毕***
+**_至此，PHPStorm 基础配置介绍完毕_**
 
 [转到 XDebug 配置流程](XDebug.md)
 
