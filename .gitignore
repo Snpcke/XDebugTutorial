@@ -1,4 +1,5 @@
 # ignore image
+_book
 *.png
 *.jpg
 *.jpeg
