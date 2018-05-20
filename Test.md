@@ -2,13 +2,6 @@
 
 **_声明：内容来源于个人实验和个人理解，不保证泛用性和正确性，欢迎勘误和拍砖_**
 
-## 目录
-
-* [配置浏览器](#browser)
-* [准备](#ready)
-* [检查 XDebug 安装情况](#check)
-* [测试 XDebug](#test)
-
 ---
 
 **_此处以 XAMPP 为 PHP 环境来进行配置，因此会有一点点不同（如 php.exe 的位置）_**
@@ -22,8 +15,6 @@
 如果没有安装成功... 那就很尴尬了...
 
 ---
-
-<ac id="browser"></ac>
 
 ## 配置浏览器
 
@@ -77,8 +68,6 @@
 
 ---
 
-<ac id="check"></ac>
-
 ## 检查 XDebug 安装情况
 
 您可以直接通过在 phpinfo()中搜索 XDebug 来检查配置情况
@@ -94,8 +83,6 @@
 ![XDebug](https://ws1.sinaimg.cn/large/e1413d51gy1frfvjpde4ig216s0ovu0p.jpg)
 
 若看到 Debugger 标志出现 XDebug x.x.x 字样，这就意味着，至少我们的配置是能够被 PHP 正确加载
-
-<ac id="ready"></ac>
 
 ## 准备
 
@@ -178,8 +165,6 @@ PHPStorm 启动项目的方式比较多，对于微型项目或小型项目，�
 **_接下来终于进入正题：测试 XDebug_**
 
 ---
-
-<ac id="test"></ac>
 
 ## 测试 XDebug
 

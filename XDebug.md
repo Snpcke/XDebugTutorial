@@ -2,17 +2,7 @@
 
 **_声明：内容来源于个人实验和个人理解，不保证泛用性和正确性，欢迎勘误和拍砖_**
 
-## 目录
-
-* [简介](#short)
-* [安装](#install)
-
-  * [phpStudy](#phpstudy)
-  * [XAMPP 7.x.x](#xampp7xx)
-
-  ---
-
-<ac id="short"></ac>
+---
 
 ## 简介
 
@@ -52,8 +42,6 @@
 
 ---
 
-<ac id="install"></ac>
-
 ## 安装
 
 在安装 XDebug 之前，我们需要
@@ -78,8 +66,6 @@
 ---
 
 ## 1. phpStudy
-
-<ac id="phpstudy"></ac>
 
 首先，请安装最新的 [phpStudy](http://www.phpstudy.net/)，不赘述
 
@@ -130,8 +116,6 @@ xdebug.remote_port = 9000
 [转向测试流程](Test.md)
 
 ---
-
-<ac id="xampp7xx"></ac>
 
 ## 2. XAMPP 7.x.x
 
