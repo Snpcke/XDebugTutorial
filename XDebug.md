@@ -225,9 +225,9 @@ XAMPP **并没有**自带XDebug插件，因此我们需要上 [XDebug 官网](ht
 
 在这个目录下有我们需要注意以下文件/文件夹
 
-1.ext：PHP 插件的安装目录
-2.php.exe：PHP 解释器的可执行文件
-3.php.ini：PHP 配置文件
+1. **ext**：PHP 插件的安装目录
+2. **php.exe**：PHP 解释器的可执行文件
+3. **php.ini**：PHP 配置文件
 
 接下来，请将下载好的XDebug 插件复制到PHP 根目录下的ext文件夹内
 
