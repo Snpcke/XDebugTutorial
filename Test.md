@@ -144,7 +144,7 @@ PHPStorm 启动项目的方式比较多，对于微型项目或小型项目，�
 
 ![添加本地](https://ws1.sinaimg.cn/large/e1413d51gy1frhq7yn3q2g21gt0rrqoe.jpg)
 
-这里为什么要使用http://localhost/test作为web 服务器的根目录呢？
+这里为什么要使用 [http://localhost/test](http://localhost/test) 作为 web 服务器的根目录呢？
 
 不知道您是否还想的起：**_我们的项目处于 XAMPP 的 web 根目录下_**
 
