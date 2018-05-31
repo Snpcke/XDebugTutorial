@@ -234,7 +234,7 @@ XAMPP **并没有** 自带 XDebug 插件，因此我们需要上 [XDebug 官网]
 
 添加如下内容
 
-ini
+```ini
 [XDebug]
 ; 此处路径值由 INSTRUCTIONS 第 3 条提供
 zend_extension = "C:\xampp\php\ext\php_xdebug-2.6.0-7.2-vc15.dll"
@@ -243,6 +243,7 @@ xdebug.remote_handler = "dbgp"
 xdebug.remote_host = "localhost"
 xdebug.remote_mode = "req"
 xdebug.remote_port = 9000
+```
 
 **_然后，请重启 Apache 服务器_**
 
