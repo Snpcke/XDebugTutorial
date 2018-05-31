@@ -62,7 +62,7 @@
 
 ![按钮](https://ws1.sinaimg.cn/large/e1413d51gy1frhncn4hjtg21gt073dkb.jpg)
 
-请对小虫子**右键**
+请对小虫子**左键**
 
 **_至此，浏览器配置完毕_**
 

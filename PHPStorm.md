@@ -148,7 +148,14 @@ hosts 文件位置
 
 首先是配置 PHP 解释器
 
+PHP 解释器，即 php.exe，在后面的测试中，内置服务器的启动会依赖这一配置
+
 选项路径：File | Settings | Languages & Frameworks | PHP
+
+这里有两个选项：
+
+* **PHP language level**：即 php 语法支持版本，请与您安装的 php 版本一致
+* **CLI interpreter**：即 php 命令行解释器，需要添加并选择，请添加您常用的解释器
 
 ![PHP Global instance](https://ws1.sinaimg.cn/large/e1413d51gy1frfty5cewzg216s0ovu0x.jpg)
 

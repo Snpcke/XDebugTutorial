@@ -129,7 +129,7 @@ XAMPP 的安装，此处不再赘述
 
 **_然后，请启动 XAMPP 的 Apache 服务_**
 
-XAMPP **并没有**自带 XDebug 插件，因此我们需要上 [XDebug 官网](https://xdebug.org/) 下载
+XAMPP **并没有** 自带 XDebug 插件，因此我们需要上 [XDebug 官网](https://xdebug.org/) 下载
 
 但在此之前，我们需要确定我们的 PHP 版本
 
